@@ -1,0 +1,43 @@
+.parallax{
+  width: 1260px;
+  height: 720px;
+  font-size: 55px;
+  font-family: Monospace;
+  font-weight: bold;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.pic1{
+	 background-image: url("../img/pic1.jpg");
+	 background-size: cover;
+	 background-attachment: fixed;
+}
+
+.pic2{
+  background-image: url("../img/pic2.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.pic3{
+  background-image: url("../img/pic3.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.pic4{
+  background-image: url("../img/pic4.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.pic5{
+  background-image: url("../img/pic5.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
